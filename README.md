@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/CMikeZeltner/FEMentor-space-tourism-site]
-- Live Site URL: [https://fem-entor-space-tourism-site.vercel.app/technology]
+- Live Site URL: [https://fem-entor-space-tourism-site.vercel.app]
 
 ## My process
 
